@@ -1,0 +1,28 @@
+:root{
+  --min-color:#802c6e;
+}
+
+.cart{
+  left: 40px !important;
+  top: -5px !important;
+}
+.min-color{
+  background-color: var(--min-color , #802c6e);
+}
+.color{
+  color:var(--min-color);
+}
+.nav-item{
+  font-size: 23px !important;
+}
+.cartTitle{
+  min-height: 120px;
+}
+.prace{
+font-size: 20px;
+}
+hr{
+  color: var(--min-color);
+
+  
+}
